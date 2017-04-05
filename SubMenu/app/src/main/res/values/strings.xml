@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">SubMenu</string>
+    <string name="sta">欢迎来到SubMenu测试程序,请点击右上角的下拉菜单列表，弹出菜单选项</string>
+    <string name="search">搜索</string>
+    <string name="local">本地</string>
+    <string name="network">网络</string>
+
+</resources>
